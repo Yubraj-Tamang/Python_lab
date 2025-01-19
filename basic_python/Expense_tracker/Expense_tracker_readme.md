@@ -109,4 +109,3 @@ Exiting... Goodbye!
 - Generate reports for weekly or monthly spending.
 - Add a graphical interface using libraries like Tkinter or PyQt.
 
-The Expense Tracker is a useful project for managing daily expenses while practicing Python programming concepts.
