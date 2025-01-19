@@ -114,4 +114,3 @@ Your final score is: 3/3
 - Implement difficulty levels (easy, medium, hard).
 - Introduce a timer for answering questions.
 
-The Basic Quiz App is a great beginner project to practice Python concepts and create an interactive experience.
