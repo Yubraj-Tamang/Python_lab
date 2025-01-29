@@ -1,3 +1,6 @@
 This is a new file created using Python.
 You can write multiple lines using write().
 Appending this line to the file.
+This is a new file created using Python.
+You can write multiple lines using write().
+Appending this line to the file.
