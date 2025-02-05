@@ -2,7 +2,7 @@
 # Class: Defines the structure and behavior.
 # Object: An instance of a class that follows the structure defined by the class.
 
-# Defining a class
+# Defining the class
 class Car:
     # Constructor method to initialize attributes
     def __init__(self, brand, model, year):
