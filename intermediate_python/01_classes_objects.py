@@ -1,5 +1,4 @@
 # Key Concepts:
-# Class: Defines the structure and behavior.
 # Object: An instance of a class that follows the structure defined by the class.
 
 # Defining the class
