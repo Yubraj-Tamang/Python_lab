@@ -12,4 +12,3 @@
 * dictionaries.py: Working with dictionaries.
 * strings.py: String operations.
 * input_output.py: Taking user input and printing output.
-* 
